@@ -2,9 +2,10 @@
 
 <img height="180" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg">
 
-<h1>Ant Design</h1>
+<h1>Lune UI</h1>
 
-An enterprise-class UI design language and React UI library.
+Modern UI Kit for React
+
 
 [![CI status][github-action-image]][github-action-url]
 [![codecov][codecov-image]][codecov-url]

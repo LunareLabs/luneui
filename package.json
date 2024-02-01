@@ -1,9 +1,8 @@
 {
-  "name": "antd",
+  "name": "luneui",
   "version": "5.13.3",
-  "description": "An enterprise-class UI design language and React components implementation",
+  "description": "Modern UI Kit for React",
   "keywords": [
-    "ant",
     "component",
     "components",
     "design",
@@ -13,21 +12,16 @@
     "react-component",
     "ui"
   ],
-  "homepage": "https://ant.design",
+  "homepage": "https://luneui.lunare.tech",
   "bugs": {
-    "url": "https://github.com/ant-design/ant-design/issues"
+    "url": "https://github.com/LunareLabs/luneui/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ant-design/ant-design"
+    "url": "https://github.com/LunareLabs/luneui"
   },
-  "funding": {
-    "type": "opencollective",
-    "url": "https://opencollective.com/ant-design"
-  },
-  "license": "MIT",
   "contributors": [
-    "ant"
+    "gahfaustino"
   ],
   "sideEffects": [
     "*.css"
